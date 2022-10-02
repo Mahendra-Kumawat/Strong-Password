@@ -17,6 +17,6 @@ if len(pas)>8:
    else:
        print("capital charactor is missing so enter the capital latter ")
 else:
-   print("enter 8 to 16 character")
+   print("please enter minimum 8 charactor)
 
 
